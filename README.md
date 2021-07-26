@@ -15,6 +15,6 @@ I [maintain](https://archlinux.org/packages/) a handful of packages for [Arch Li
 
 I sometimes write [blog](https://blog.com) posts and occasionally [tweet](https://twitter.com/m3ctury) about stuff. 
 
-If you want to support my work, consider [becoming a patron](https://patreon.com/join/orhunp) on **Patreon**. Unfortunately, GitHub Sponsors is not _supported_ in my region.
+If you want to support my work, consider [becoming a patron](https://patreon.com/join/mectury) on **Patreon**. Unfortunately, GitHub Sponsors is not _supported_ in my region.
 
-~ [_Mectury has been around for a long time._](https://xss.is)
+~ [_Mectury has been around for a long time._](https://m3ctury.com) 
