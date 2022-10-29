@@ -23,7 +23,7 @@
 <!-- thropy -->
 <a href="https://github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=mectury&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=LimerBoy&column=7&theme=onedark"/>
     </p>
 </a>
 
